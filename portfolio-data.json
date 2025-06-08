@@ -1,0 +1,174 @@
+{
+  "settings": {
+    "name": "Naga Nithin",
+    "title": "Software Developer",
+    "location": "India",
+    "summary": "Dedicated and tech-savvy Computer Science student seeking a challenging role to implement advanced knowledge and contribute to organizational success.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg",
+    "primaryColor": "#DC2626"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Contact Me",
+          "url": "mailto:connect.naganithin@gmail.com",
+          "isPrimary": true,
+          "icon": "instagram"
+        },
+        {
+          "text": "Download Resume",
+          "url": "#",
+          "isPrimary": false,
+          "icon": "download"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "A dedicated and tech-savvy individual with a B.Tech in Computer Science Engineering searching for a challenging role at a progressive organization. Eager to implement advanced knowledge and skills to contribute to the success of the organization. Possessing experience as an intern and full-time employee in SAP Quality Management at Cognizant.",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "C",
+          "C++",
+          "Java",
+          "SEO",
+          "Digital Marketing",
+          "Flutter (Intermediate)",
+          "Web Technologies (HTML, CSS, JS, PHP)",
+          "SAP QM"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Experience",
+      "items": [
+        {
+          "company": "Cognizant",
+          "position": "SAP Quality Management",
+          "period": "09/2022 - Present",
+          "description": "Joined as an Intern and learned various web technologies like HTML, CSS, JavaScript, and PHP. Volunteered as a POC for 30 members in my group during intern period. Trained in SAP Quality Management & converted into Full-time in Cognizant."
+        },
+        {
+          "company": "SP Technologies",
+          "position": "Android Developer",
+          "period": "11/2018 - 05/2019",
+          "description": "Proficiently troubleshoot simple and complex technical issues for different assigned projects, achieving a 90% success rate. Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency. Designed and implemented Advanced Weather Application to detect weather in current location using OpenWeather API."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Grow Wiser - Placement News App",
+          "description": "Developed News App using Flutter 2.5 that displays about latest company hirings. Used Firebase Cloud Firestore to host app & fetch news.",
+          "tags": [
+            "Flutter",
+            "Firebase"
+          ],
+          "previewUrl": "#"
+        },
+        {
+          "title": "Weather Tracking App",
+          "description": "Developed the Weather Tracking App using OpenWeather API. We can track the weather of the current location or any city with a responsive and elegant user interface.",
+          "tags": [
+            "Android",
+            "API"
+          ],
+          "previewUrl": "#"
+        },
+        {
+          "title": "COVID-19 Tracker App",
+          "description": "Developed COVID-19 Tracker App Using Open Disease Data API & Volley Library. Provides Total Cases, Deaths, Critical, Recovery, Total Tests & Vaccinated count of all countries.",
+          "tags": [
+            "Android",
+            "API"
+          ],
+          "previewUrl": "https://google.com"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Vidya Jyothi Institute of Technology",
+          "degree": "B.tech in Computer Science",
+          "period": "2019 - Present"
+        },
+        {
+          "institution": "RRS College of Engineering & Technology",
+          "degree": "Diploma in Computer Engineering",
+          "period": "2016 - 2019"
+        },
+        {
+          "institution": "ST. Anthony's High School",
+          "degree": "10th Board",
+          "period": "2015 - 2016"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "connect.naganithin@gmail.com",
+      "phone": "+91 9398945849",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "LinkedIn",
+          "url": "linkedin.com/in/nithintalks",
+          "icon": "github"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://linkedin.com/in/johndoe",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Kollipara Yuvanaga Nithin. All rights reserved."
+  }
+}
